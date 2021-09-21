@@ -19,7 +19,7 @@ class helloWorld {
 3. Screen Shot of running in GCB:
 (Have it uploaded in GCB) 
 
-![hw2_part1_HelloWorld_Create_and_push](https://user-images.githubusercontent.com/54678622/134097034-3d46b81e-a823-4a18-9a52-aef64f1940c0.PNG)
+![success_push_GCP](https://user-images.githubusercontent.com/54678622/134097061-92495b55-174f-49e5-96cb-202ccdd8eb3d.PNG)
 
 
 4. Downloading and running Jupityr Notebook:
