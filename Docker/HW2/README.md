@@ -21,6 +21,8 @@ class helloWorld {
 
 ![success_push_GCP](https://user-images.githubusercontent.com/54678622/134097061-92495b55-174f-49e5-96cb-202ccdd8eb3d.PNG)
 
+![cloud_run_Working](https://user-images.githubusercontent.com/54678622/134429016-0ececc26-450b-41ee-a76b-2b58c20d8814.PNG)
+
 
 4. Downloading and running Jupityr Notebook:
 
