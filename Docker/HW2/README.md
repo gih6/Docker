@@ -26,6 +26,10 @@ class helloWorld {
 
 ![cloud_run_Working](https://user-images.githubusercontent.com/54678622/134429016-0ececc26-450b-41ee-a76b-2b58c20d8814.PNG)
 
+![gcloud run console](https://user-images.githubusercontent.com/54678622/135461634-80e6fc6d-c172-41c8-a48c-d0599a482a24.PNG)
+
+![failed docker cloud image 2](https://user-images.githubusercontent.com/54678622/135461642-2e23b1b4-077e-4808-9df1-fea4ae707a9c.PNG)
+
 
 4. Downloading and running Jupityr Notebook:
 
