@@ -1,4 +1,6 @@
-HW 2:
+HW 2: Here are my screenshots for the various sections. If the images do not load please download the .docx file and all the images should be in there.
+
+
 1. URL Of the Docker File: https://hub.docker.com/repository/docker/gih6/hwtwo (note docx has screenshots of creating and running on local machine)
 
 ![hw2_part1_HelloWorld_Create_and_push](https://user-images.githubusercontent.com/54678622/134990980-db5e5858-1d80-484a-98b7-bf6e28837116.PNG)
