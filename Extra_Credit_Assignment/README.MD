@@ -15,7 +15,6 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 2. Running on Kubernetes Google Cloud Engine:
 
-![working_on_Local](https://user-images.githubusercontent.com/54678622/137013008-e9dc0c8a-34b5-446a-88da-438c618251e0.PNG)
 
 ![CLOUD_PUBLIC IP](https://user-images.githubusercontent.com/54678622/137013074-6a94414d-4ee3-4414-b48d-9436f73377a2.PNG)
 
