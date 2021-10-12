@@ -1,7 +1,7 @@
 
-This is the Extra Credit Assignment. So Far the project runs correctly all locally on the machine. All Docker Hub Images are posted online.
 
-First is an image of the application working locally on the computer:
+
+This is an image of the application working locally on the computer:
 
 ![working_on_local_2](https://user-images.githubusercontent.com/54678622/137012921-e5dad229-3217-486f-852b-82b3fef5cb9a.PNG)
 
