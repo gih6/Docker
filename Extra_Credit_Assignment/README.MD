@@ -1,5 +1,5 @@
 
-# Extra Credit Assignment
+# Sentiment Analysis
 
 ### This is an image of the application working locally on the computer:
 
