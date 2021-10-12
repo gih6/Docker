@@ -24,7 +24,7 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 First Set up and run a cluster from the GKE
 
-$ gcloud container clusters get-credentials cluster-1 --zone us-central-c --project elegant-tide-
+$ gcloud container clusters get-credentials cluster-1 --zone us-central-c --project elegant-tide-326122
 
 $ kubectl create -f service-sa-frontend-lb.yaml
 
