@@ -22,7 +22,7 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 4. Steps to run Kubernetes on Google Cloud Engine:
 
-First Set up and run a cluster from the GKE
+First Set up and run a cluster from the GKE (Make sure gcloud was initialized on cloudshell in correct time zone and kubernetes API is enabled)
 
 $ gcloud container clusters get-credentials cluster-1 --zone us-central-c --project elegant-tide-326122
 
