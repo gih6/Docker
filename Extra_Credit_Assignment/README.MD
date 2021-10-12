@@ -1,7 +1,10 @@
 
 This is the Extra Credit Assignment. So Far the project runs correctly all locally on the machine. All Docker Hub Images are posted online.
 
-1. Docker Images: 
+First is an image of the application working locally on the computer:
+
+
+Here are now links to the Docker Images: 
 
 Frontend: https://hub.docker.com/r/gih6/sentiment-analysis-frontend
 
