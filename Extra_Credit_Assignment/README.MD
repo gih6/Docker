@@ -36,7 +36,7 @@ $ kubectl create -f service-sa-logic.yaml --record
 
 $ kubectl apply -f sa-web-app-deployment.yaml --record
 
-[$ kubectl create -f sa-web-app-deployment.yaml]
+>$ kubectl create -f sa-web-app-deployment.yaml
 
 HERE need to create the new sa-frontend with the minikube tag with updated IP of the web app ip address.
 
