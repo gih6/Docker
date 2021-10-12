@@ -22,15 +22,20 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 4. Steps to run Kubernetes on Google Cloud Engine:
 
-1. Set up and run a cluster from the GKE
+First Set up and run a cluster from the GKE
 
 $ gcloud container clusters get-credentials cluster-1 --zone us-central-c --project elegant-tide-
 
 $ kubectl create -f service-sa-frontend-lb.yaml
+
 $ kubectl apply -f sa-frontend-deployment.yaml
+
 $ kubectl apply -f sa-logic-deployment.yaml --record
+
 $ kubectl create -f service-sa-logic.yaml --record
+
 $ kubectl apply -f sa-web-app-deployment.yaml --record
+
 $ kubectl create -f sa-web-app-deployment.yaml
 
 HERE need to create the new sa-frontend with the minikube tag with updated IP of the web app ip address.
