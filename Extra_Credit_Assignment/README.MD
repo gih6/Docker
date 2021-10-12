@@ -23,4 +23,5 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 1. Set up and run a cluster from the GKE
 2. 
- 
+ ![SENTIMENT_WORKING ON CLOUD](https://user-images.githubusercontent.com/54678622/137013239-b2bedf1d-b94e-4098-86cf-a79e2925587d.PNG)
+
