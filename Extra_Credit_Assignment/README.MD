@@ -16,7 +16,9 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 ### Running on Kubernetes Google Cloud Engine:
 
+![Screen Shot 2021-10-12 at 10 08 20 PM](https://user-images.githubusercontent.com/54678622/137055139-ff9f6cb5-c189-402f-b44f-157c21ccf741.png)
 
+![Screen Shot 2021-10-12 at 10 08 05 PM](https://user-images.githubusercontent.com/54678622/137055154-1003463e-c5e5-4c4e-b03f-95da176e15bf.png)
 
 ### Steps to run Kubernetes on Google Cloud Engine:
 
