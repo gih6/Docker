@@ -16,7 +16,6 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 ### Running on Kubernetes Google Cloud Engine:
 
-![CLOUD_PUBLIC IP](https://user-images.githubusercontent.com/54678622/137013074-6a94414d-4ee3-4414-b48d-9436f73377a2.PNG)
 
 
 ### Steps to run Kubernetes on Google Cloud Engine:
@@ -37,7 +36,9 @@ First Set up and run a cluster from the GKE (Make sure gcloud was initialized on
 
 >$ kubectl create -f sa-web-app-deployment.yaml
 
-HERE need to create the new sa-frontend with the minikube tag with updated IP of the web app ip address.
+>$ kubectl create -f service-sa-web-app-lb.yaml
+
+>$kubectl get svc (This is where need to change IP inside APP.js to the sa-web-app-lb
 
 >$ kubectl apply -f sa-frontend-deployment.yaml
 
