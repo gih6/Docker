@@ -1,9 +1,9 @@
 
 # Sentiment Analysis
 
-### This is an image of the application working locally on the computer:
+Link to Demo is here: https://pitt.zoom.us/rec/share/Zbib8WgsCpPTLjpLMOJuAR2zjU4_Vk5hKULLLrh4rt1m0zCziy9WflSx8I6P2lMF.rHqiawCtnvJI6U0c?startTime=1634090290000
 
-![working_on_local_2](https://user-images.githubusercontent.com/54678622/137012921-e5dad229-3217-486f-852b-82b3fef5cb9a.PNG)
+Also Uploaded to Google Drive here: https://drive.google.com/file/d/1LrKA5N6McUZB46r7nu3zt0SKFWzQ7CkX/view?usp=sharing
 
 ### Docker Links are below: 
 
@@ -17,7 +17,6 @@ Web App: https://hub.docker.com/r/gih6/sentiment-analysis-web-app
 
 ![CLOUD_PUBLIC IP](https://user-images.githubusercontent.com/54678622/137013074-6a94414d-4ee3-4414-b48d-9436f73377a2.PNG)
 
- ![SENTIMENT_WORKING ON CLOUD](https://user-images.githubusercontent.com/54678622/137013239-b2bedf1d-b94e-4098-86cf-a79e2925587d.PNG)
 
 ### Steps to run Kubernetes on Google Cloud Engine:
 
