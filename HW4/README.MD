@@ -16,3 +16,8 @@
 
 
 ## Video Link for AppUI uploading to Bucket of data: 
+
+https://pitt.zoom.us/rec/share/__kHGlLrmGq-fke0bgpuebGw7yQwkHUMJFrRmxdr7Pj_ya_3MuKJhfmp8cynZoI_.U1nkRIZ3yFs9jjm9?startTime=1636058767000
+
+https://drive.google.com/file/d/1V8K5oPcRonv-ZmoNBgwqzgxIOz0Xq7No/view?usp=sharing
+
