@@ -21,3 +21,5 @@ https://pitt.zoom.us/rec/share/__kHGlLrmGq-fke0bgpuebGw7yQwkHUMJFrRmxdr7Pj_ya_3M
 
 https://drive.google.com/file/d/1V8K5oPcRonv-ZmoNBgwqzgxIOz0Xq7No/view?usp=sharing
 
+Note: APPUI was used with Apache NetBeans UI builder and the Google Credential code references these resources:
+https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-code-sample
