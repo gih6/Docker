@@ -11,3 +11,6 @@ Top N Frequencies
 
 
 6. Output of Top N frequency
+
+## Sources
+1. Referenced: https://www.geeksforgeeks.org/how-to-find-top-n-records-using-mapreduce/
